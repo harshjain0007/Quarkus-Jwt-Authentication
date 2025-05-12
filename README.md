@@ -1,1 +1,0 @@
-# Quarkus-Jwt-Authentication
